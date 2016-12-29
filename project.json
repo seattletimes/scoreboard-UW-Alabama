@@ -1,0 +1,19 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "scorebaord test"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "2016/sports/UW-Alabama"
+    }
+  },
+  "title": "UW Alabama live scoreboard",
+  "description": "UW Alabama live scoreboard",
+  "url": "http://projects.seattletimes.com/2016/sports/UW-Alabama",
+  "image": "assets/social.jpg",
+  "sheets": [],
+  "production": true,
+  "embedded": true
+}
