@@ -6,12 +6,12 @@
     },
     "live": {
       "bucket": "projects.seattletimes.com",
-      "path": "2016/sports/UW-Alabama"
+      "path": "2017/sports/scoreboard"
     }
   },
-  "title": "UW Alabama live scoreboard",
-  "description": "UW Alabama live scoreboard",
-  "url": "http://projects.seattletimes.com/2016/sports/UW-Alabama",
+  "title": "Seattle sports live scoreboard",
+  "description": "Seattle sports live scoreboard",
+  "url": "http://projects.seattletimes.com/2017/sports/scoreboard/",
   "image": "assets/social.jpg",
   "sheets": [],
   "production": true,
